@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dettaglio Prodotto</string>
+    <string name="nome_prodotto">Samsung Galaxy A13</string>
+    <string name="immagine">image</string>
+    <string name="pulsante">button</string>
+    <string name="descrizione_prodotto">Samsung Galaxy A13 Smartphone Android, Processore Dual+Exa Core, Display Infinity-V da 6.6, Android 12. 3 GB RAM, 32 GB di Memoria Interna Espandibile, Batteria da 5.000 mAh</string>
+    <string name="marca">MARCA:</string>
+    <string name="modello">MODELLO:</string>
+    <string name="sistema_operativo">SISTEMA OPERATIVO:</string>
+    <string name="prezzo">PREZZO:</string>
+    <string name="v_marca">Samsung</string>
+    <string name="v_modello">SM-A13</string>
+    <string name="v_sistema_operativo">Android 12</string>
+    <string name="v_prezzo">143,89 Euro</string>
+</resources>

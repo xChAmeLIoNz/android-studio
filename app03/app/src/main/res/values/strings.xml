@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app-03</string>
+    <string name="nome">Inserisci nome</string>
+    <string name="cognome">Inserisci cognome</string>
+    <string name="uomo">Uomo</string>
+    <string name="donna">Donna</string>
+    <string name="registrati">Registrati</string>
+    <string name="condizioni">Accetto le condizioni</string>
+    <string name="image">Image</string>
+</resources>
