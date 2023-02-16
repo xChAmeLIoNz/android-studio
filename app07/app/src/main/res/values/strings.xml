@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app-07</string>
+    <string-array name="province">
+        <item>Milano</item>
+        <item>Roma</item>
+        <item>Napoli</item>
+    </string-array>
+</resources>
