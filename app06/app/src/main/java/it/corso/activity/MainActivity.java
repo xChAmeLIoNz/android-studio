@@ -19,10 +19,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ListView elenco = findViewById(R.id.elenco);
-        //installazione adpter
-        ContattoAdapter adpter = new ContattoAdapter(this);
-        //assegnazione adpter a list
-        elenco.setAdapter(adpter);
+        //installazione adapter
+        ContattoAdapter adapter = new ContattoAdapter(this);
+        //assegnazione adapter a list
+        elenco.setAdapter(adapter);
         //rendiamo dinamica la listview
         elenco.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override

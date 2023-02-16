@@ -1,8 +1,10 @@
-package com.iseppe.esercitazione_catalogo;
+package com.iseppe.esercitazione_catalogo.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.iseppe.esercitazione_catalogo.R;
 
 public class MainActivity extends AppCompatActivity {
 
